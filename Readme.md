@@ -1,1 +1,2 @@
-Im new to github!
+![My Octocat!]
+(https://octodex.github.com/images/yaktocat.png)
